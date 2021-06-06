@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Power Extractor",
+    "rarity": "Common",
+    "id": "19554",
+    "supply": "16249"
+  },
+  {
+    "name": "Gasrigged Extractor",
+    "rarity": "Common",
+    "id": "19555",
+    "supply": "15261"
+  },
+  {
+    "name": "Infused Extractor",
+    "rarity": "Common",
+    "id": "19556",
+    "supply": "13358"
+  },
+  {
+    "name": "Basic Explosive",
+    "rarity": "Common",
+    "id": "19557",
+    "supply": "15253"
+  },
+  {
+    "name": "Basic Trilium Detector",
+    "rarity": "Common",
+    "id": "19559",
+    "supply": "13567"
+  },
+  { "name": "ExoGloves", "rarity": "Common", "id": "19560", "supply": "15176" },
+  {
+    "name": "Power Saw ",
+    "rarity": "Common",
+    "id": "19561",
+    "supply": "13610"
+  },
+  {
+    "name": "Rock Blade",
+    "rarity": "Common",
+    "id": "19584",
+    "supply": "15195"
+  },
+  {
+    "name": "Stave of Deception",
+    "rarity": "Common",
+    "id": "19585",
+    "supply": "13635"
+  },
+  {
+    "name": "Titanium Dagger",
+    "rarity": "Common",
+    "id": "19586",
+    "supply": "15145"
+  },
+  { "name": "Kite Axe", "rarity": "Common", "id": "19588", "supply": "13563" },
+  {
+    "name": "Widow Maker",
+    "rarity": "Common",
+    "id": "19591",
+    "supply": "15145"
+  },
+  {
+    "name": "Spike Hammer",
+    "rarity": "Common",
+    "id": "19594",
+    "supply": "13646"
+  },
+  { "name": "Confuser", "rarity": "Common", "id": "19604", "supply": "15359" },
+  {
+    "name": "Lithium Dagger",
+    "rarity": "Common",
+    "id": "19613",
+    "supply": "13478"
+  },
+  {
+    "name": "Infernal Axe",
+    "rarity": "Common",
+    "id": "19616",
+    "supply": "15149"
+  },
+  {
+    "name": "Sky Shield",
+    "rarity": "Common",
+    "id": "19620",
+    "supply": "13563"
+  },
+  {
+    "name": "Plasma Shield",
+    "rarity": "Common",
+    "id": "19621",
+    "supply": "15095"
+  },
+  {
+    "name": "LG Soldier",
+    "rarity": "Common",
+    "id": "19626",
+    "supply": "13658"
+  },
+  {
+    "name": "Grey Scientist",
+    "rarity": "Common",
+    "id": "19627",
+    "supply": "15321"
+  },
+  {
+    "name": "Nordic Warrior",
+    "rarity": "Common",
+    "id": "19628",
+    "supply": "13800"
+  },
+  {
+    "name": "Terminator",
+    "rarity": "Common",
+    "id": "19635",
+    "supply": "15086"
+  },
+  {
+    "name": "LG Soldier",
+    "rarity": "Common",
+    "id": "19638",
+    "supply": "13704"
+  },
+  {
+    "name": "Grey Scientist",
+    "rarity": "Common",
+    "id": "19639",
+    "supply": "15249"
+  },
+  {
+    "name": "Nordic Warrior",
+    "rarity": "Common",
+    "id": "19640",
+    "supply": "13496"
+  },
+  {
+    "name": "Terminator",
+    "rarity": "Common",
+    "id": "19647",
+    "supply": "15284"
+  },
+  {
+    "name": "Female Grey",
+    "rarity": "Common",
+    "id": "19650",
+    "supply": "13801"
+  },
+  { "name": "Male Grey", "rarity": "Common", "id": "19651", "supply": "15240" },
+  {
+    "name": "Female Nordic",
+    "rarity": "Common",
+    "id": "19656",
+    "supply": "13496"
+  },
+  {
+    "name": "Male Nordic",
+    "rarity": "Common",
+    "id": "19657",
+    "supply": "15850"
+  }
+]

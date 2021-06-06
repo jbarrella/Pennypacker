@@ -1,2 +1,2 @@
 # Pennypacker
-Ethereum NFT tools
+NFT tools
